@@ -103,4 +103,5 @@ Here are some Dont's which should be kept in mind at all times :-
 3) Do not change the name of the pixify_decode.py python file
 4) Edit only the decode function inside the python file as per the instructions mentioned
 5) The executables are designed to work only on **Windows** for now
-6) **Use the cmd command prompt to run the files and not Windows Powershell** 
+6) **Use the cmd command prompt to run the files and not Windows Powershell**
+7) Make sure you run the test_case_generator executable just after cloning the repository
