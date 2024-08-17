@@ -1,6 +1,6 @@
 # Pixify - Python and OpenCV Game for Beginners
 
-Pixify is a unique and engaging game designed for beginners to learn Python and OpenCV through hands-on coding challenges. Players are tasked with writing code to extract embedded letters from personalized test cases generated using image processing techniques. At the end all the letters in the testcases translate to a unique word which is the most fun part of this game :stuck_out_tongue_winking_eye::grin:
+Pixify is a unique and engaging game designed for beginners to learn Python and OpenCV through hands-on coding challenges. Players are tasked with writing code to extract embedded letters from personalized test cases generated using image processing techniques. At the end all the letters in the testcases translate to a unique word which is the most fun part of this game 
 
 ## Table of Contents
 
